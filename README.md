@@ -28,6 +28,12 @@ the person enters the room by ‘1’ and the light will turn ‘ON’. The coun
 * When the order of sensing is reversed then the counter is decremented
 * Also the Hardcoded threshold states that only half of the lights are switched on for less than 10 persons inside the room.
 
-### Limitation 
+### 4. Limitation 
 * It can't detect if two persons enter or leave the room simultaneously.
 * It can also count objects as persons
+
+### 5. Video Demonstration
+
+
+https://user-images.githubusercontent.com/98400026/226196115-ac9d0f8c-2022-408d-8e8f-2b31d53003fc.mp4
+
